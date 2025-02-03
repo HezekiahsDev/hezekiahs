@@ -65,9 +65,9 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.8 }}
           className="text-lg md:text-xl text-[#D3B8C5] max-w-2xl mb-12"
         >
-          "I build scalable, secure, and user-focused applications using modern
-          technologies to deliver tailored solutions aligned with business
-          goals."
+          &quot;I build scalable, secure, and user-focused applications using
+          modern technologies to deliver tailored solutions that align with
+          business goals.&quot;
         </motion.p>
 
         {/* Call-to-Action Button and Social Media Links */}
