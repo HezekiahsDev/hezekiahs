@@ -17,7 +17,7 @@ const NAV_LINKS: { href: string; label: string }[] = [
   { href: "/blog", label: "Blog" },
   { href: "/colaborate", label: "Colaborate" },
   { href: "/contact", label: "Connect" },
-  { href: "/tutorials", label: "Tutorial" },
+  { href: "/tutorials", label: "Tutorials" },
 ];
 
 const NavLink: FC<NavLinkProps> = ({ href, label, onClick }) => (
