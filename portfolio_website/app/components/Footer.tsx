@@ -27,7 +27,7 @@ const Footer = () => {
             </h3>
             <div className="flex space-x-6">
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/HezekiahsDev"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#D3B8C5] hover:text-[#D8928B] transition-colors"
@@ -35,7 +35,7 @@ const Footer = () => {
                 <FaGithub size={24} />
               </a>
               <a
-                href="https://linkedin.com/in/yourusername"
+                href="https://linkedin.com/in/hezekiah-olushola"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#D3B8C5] hover:text-[#D8928B] transition-colors"
@@ -43,7 +43,7 @@ const Footer = () => {
                 <FaLinkedin size={24} />
               </a>
               <a
-                href="https://twitter.com/yourusername"
+                href="https://twitter.com/HezekiahsDev"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#D3B8C5] hover:text-[#D8928B] transition-colors"

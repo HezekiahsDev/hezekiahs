@@ -65,7 +65,7 @@ const Navbar: FC = () => {
         {/* Mobile Menu Button (Hamburger Icon) */}
         <button
           onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-          className="md:hidden text-[#D3B8C5] hover:text-[#D8928B] focus:outline-none"
+          className="md:hidden text-[#D3B8C5] hover:text-[#D3B8C5] focus:outline-none"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
